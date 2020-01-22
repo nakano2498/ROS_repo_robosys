@@ -1,0 +1,6 @@
+<launch>
+<node pkg = "myled" name = "button_pub" type = "button.py" output="screen"/>
+<node pkg = "myled" name = "myled" type = "myled.py" output="screen"/>
+</launch>
+
+
