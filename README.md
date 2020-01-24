@@ -1,7 +1,7 @@
 # ROS_repo_robosys
 ROSを用いて，タクトスイッチを押すとLEDが点灯するプログラムを作成．
 myled.pyのプログラムが，サブスクライバー
-パブリッシャー(button.py)側から，タクトスイッチのON,OFFの信号をサブスクライバ(myled.py)へ渡し，LEDが点灯する．
+パブリッシャー(button.py)側から，タクトスイッチのON,OFFの信号をサブスクライバ(myled.py)へ渡し，LEDが点灯する． <br/>
 <メッセージの内容> <br/>
   0 -> LED_OFF <br/>
   1 -> LED_ON <br/>
