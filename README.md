@@ -8,7 +8,8 @@ myled.pyのプログラムが，サブスクライバー
 
 
 YouTube(デモ動画)のリンク
-https://youtu.be/ZiUk0CSw4l0　<br/>
+https://youtu.be/ZiUk0CSw4l0
+<br/>
 
 参考にしたwebサイト・書籍は下記の通りのです．
 * https://ryuichiueda.github.io/robosys2019/lesson13.html#/8
